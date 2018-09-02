@@ -232,6 +232,7 @@
             this.виведенняToolStripMenuItem.Name = "виведенняToolStripMenuItem";
             this.виведенняToolStripMenuItem.Size = new System.Drawing.Size(77, 20);
             this.виведенняToolStripMenuItem.Text = "Виведення";
+            this.виведенняToolStripMenuItem.Click += new System.EventHandler(this.виведенняToolStripMenuItem_Click);
             // 
             // виведенняТаблицьНаЕкранToolStripMenuItem
             // 

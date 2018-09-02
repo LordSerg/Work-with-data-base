@@ -40,7 +40,7 @@ namespace data_base
             comboBox3.Items.Clear();
             comboBox4.Items.Clear();
             comboBox5.Items.Clear();
-            read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\Faculty.xml");
+            read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\Faculty.xml");
             read.Read();
             for (int i = 0; i < 9; i++)
             {
@@ -64,7 +64,7 @@ namespace data_base
             comboBox3.Items.Clear();
             comboBox4.Items.Clear();
             comboBox5.Items.Clear();
-            read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\University.xml");
+            read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\University.xml");
             read.Read();
             for (int i = 0; i < 5; i++)
             {
@@ -97,7 +97,7 @@ namespace data_base
             label6.Text = ("Фото університета");
             read_university();
             string st1,st2,st3,st4,st5;
-            read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\University.xml");
+            read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\University.xml");
             read.Read();            
             t = new DataTable();
             s = new DataSet();
@@ -136,11 +136,11 @@ namespace data_base
             label5.Text = dataGridView1.Rows[code - 1].Cells[4].Value.ToString();
             if (b == false)
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_D.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_D.jpg");
             }
             else
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_U.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_U.jpg");
             }
         }
 
@@ -156,11 +156,11 @@ namespace data_base
             label5.Text = dataGridView1.Rows[code - 1].Cells[4].Value.ToString();
             if (b == false)
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_D.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_D.jpg");
             }
             else
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_U.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_U.jpg");
             }
         }
 
@@ -177,7 +177,7 @@ namespace data_base
             comboBox5.Text = ("Кафедра з найбільшою кількістю студентів при факультеті");
             label6.Text = ("Фото декана");
             read_faculty();
-            XmlTextReader read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\Faculty.xml");
+            XmlTextReader read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\Faculty.xml");
             read.Read();
             string st1, st2, st3, st4, st5;
             read.Read();
@@ -218,11 +218,11 @@ namespace data_base
             label5.Text = dataGridView1.Rows[code - 1].Cells[4].Value.ToString();
             if (b == false)
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_D.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_D.jpg");
             }
             else
             {
-                pictureBox1.BackgroundImage = new Bitmap(@"F:\Компютерный проект\!!!\data base\data base\" + code.ToString() + "_U.jpg");
+                pictureBox1.BackgroundImage = new Bitmap(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\" + code.ToString() + "_U.jpg");
             }
         }
 
@@ -402,7 +402,7 @@ namespace data_base
             groupBox1.Visible = true;
             //radioButton3.Checked = true;
             //dataGridView1.Refresh();
-            //XmlTextReader read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\Faculty.xml");
+            //XmlTextReader read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\Faculty.xml");
             //read.Read();
             //string st1, st2, st3, st4, st5;
             //read.Read();
@@ -448,7 +448,7 @@ namespace data_base
 
             //}
             //dataGridView1.DataSource = t;
-            XmlTextReader read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\Faculty.xml");
+            XmlTextReader read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\Faculty.xml");
             read.Read();
             string st1, st2, st3, st4, st5;
             read.Read();
@@ -510,7 +510,7 @@ namespace data_base
             t.Columns.Add("Дата першого випуску");
             t.Columns.Add("Чи є в університеті академіки");
             string st1, st2, st3, st4, st5;
-            read = new XmlTextReader(@"F:\Компютерный проект\!!!\data base\data base\University.xml");
+            read = new XmlTextReader(@"D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\University.xml");
             read.Read();
             for (int i = 0; i < 5; i++)
             {
@@ -601,6 +601,11 @@ namespace data_base
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
             фільтруватиЗаписиТаблиці2ЗаПолемКількістьКафедрToolStripMenuItem_Click(sender, e);
+        }
+
+        private void виведенняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

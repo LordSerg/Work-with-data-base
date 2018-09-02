@@ -17,3 +17,12 @@ F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data
 F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data_base.Form1.resources
 F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data_base.Properties.Resources.resources
 F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\bin\Debug\data base.exe.config
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data base.exe
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data base.pdb
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\bin\Debug\data base.exe
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\bin\Debug\data base.pdb
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data_base.Form1.resources
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+D:\10 клас\Учеба\Компютерный проект\!!!\!!!\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
