@@ -1,0 +1,19 @@
+C:\Users\moskalenko_s\Desktop\New folder\data base\data base\bin\Debug\data base.exe.config
+F:\Компютерный проект\!!!\data base\data base\bin\Debug\data base.exe.config
+F:\Компютерный проект\!!!\data base\data base\bin\Debug\data base.exe
+F:\Компютерный проект\!!!\data base\data base\bin\Debug\data base.pdb
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data_base.Form1.resources
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data base.exe
+F:\Компютерный проект\!!!\data base\data base\obj\Debug\data base.pdb
+F:\Компютерный проект\!!!\base of date\data base\bin\Debug\data base.exe.config
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data base.exe
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data base.pdb
+F:\Компютерный проект\!!!\base of date\data base\bin\Debug\data base.exe
+F:\Компютерный проект\!!!\base of date\data base\bin\Debug\data base.pdb
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data_base.Form1.resources
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data_base.Properties.Resources.resources
+F:\Компютерный проект\!!!\base of date\data base\obj\Debug\data base.csproj.GenerateResource.Cache
